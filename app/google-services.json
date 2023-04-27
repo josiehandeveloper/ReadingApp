@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683230312236",
+    "project_id": "readingapp-9e559",
+    "storage_bucket": "readingapp-9e559.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683230312236:android:015cc11ecced69e1d7de89",
+        "android_client_info": {
+          "package_name": "com.example.readingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683230312236-hku987aega2fhu3icpq4a65osjrc01oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkUtbM59q0YkX6yMOIBRquMwIDUF-C_Jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683230312236-hku987aega2fhu3icpq4a65osjrc01oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
